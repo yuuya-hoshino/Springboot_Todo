@@ -5,7 +5,7 @@ import lombok.Data;
 @Data
 public class Loginform {
 	
-	private String loginId;
+	private String user_id;
 	
 	private String password;
 }
